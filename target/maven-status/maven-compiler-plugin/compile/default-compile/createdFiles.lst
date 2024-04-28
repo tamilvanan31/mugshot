@@ -1,0 +1,4 @@
+com/blocks/mugshotbrewery/services/impl/BeerServiceImpl.class
+com/blocks/mugshotbrewery/services/impl/CustomerServiceImpl.class
+com/blocks/mugshotbrewery/web/controller/BeerController.class
+com/blocks/mugshotbrewery/services/BeerService.class
